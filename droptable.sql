@@ -1,0 +1,5 @@
+
+DROP TABLE BidData;
+DROP TABLE BillingData;
+DROP TABLE ItemData;
+DROP TABLE UserData;
